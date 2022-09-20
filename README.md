@@ -1,12 +1,14 @@
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-  My name is Igor C. Brasil (yeah, my surname takes the name of my home country). I'm currently specializing as a ***Full-Stack Developer*** with @driven education (by the way, it was a difficult challenge to be selected by them), and I'm also in the end of a ***graduation on Petroleum Engineering***.
-
-  Before getting into the world of web development, ***I worked with copywriting, sales, poker*** (as a semi-pro) and took an ***academic internship in India*** for a couple months at Graphic Era University, ***Petroleum Engineering Department***.
   
-  I have plenty of projects developed and commited here in GitHub, not all of them are written on an appropriate README file, but that I'll fix as soon as I can. But feel free to navigate through them and check the deploys out. If anything did help you or you have a suggestion, please contact me!
+  Meu nome é Igor C. Brasil. Estou especializando em ***Desenvolvimento Web FullStack*** com a Driven Education (em que competi com 30 candidatos/vaga), e também estou concluindo formação em Engenharia de Petróleo.
+  
+  Antes de entrar no mundo da programação web, ***eu trabalhei com copywriting, vendas, poker*** e fiz um ***intercâmbio estudantil na Índia*** por alguns meses na Graphic Era University.
+  
+  Eu tenho vários projetos públicos desenvolvidos e "commitados" aqui no Github. Sinta-se confortável para navegar através de alguns deles e dar uma olhadinha nos deploys ou em documentações que estão disponíveis. Em repositórios privados, tenho aplicações desenvolvidas para minha experiência de trabalho na Universidade do Estado de Santa Catarina (UDESC).
+  
+  ***Achou bacana? Entre em contato comigo!***
 
-## 🔧 Technologies & Tools
+## 🔧 Tecnologias & Ferramentas
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -35,17 +37,16 @@
 ![](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)
 ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-## 📩 How to reach me
-You can reach me using the email in my github profile. Follow my socials!
+## 📩 Converse comigo!
+Você pode enviar um email para o endereço disponível aqui no perfil do GitHub. Conecte-se também no LinkedIn:
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" alt="Follow igorbrasilc on LinkedIn" title="Follow igorbrasilc on LinkedIn"/>](https://www.linkedin.com/in/igor-corbari-brasil-23857512a/)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" align="center" alt="Follow igorbrasilc on Instagram" title="Follow igorbrasilc on Instagram"/>](https://instagram.com/igorbrasilcc)
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/igorbrasilc/igorbrasilc">
+<a href="https://github.com/igorbrasilc/igorbrasilc" align="center">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igorbrasilc&theme=vue" alt="Igor's GitHub Stats" />
 </a>
-<a href="https://github.com/igorbrasilc/igorbrasilc">
+<a href="https://github.com/igorbrasilc/igorbrasilc" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorbrasilc" />
 </a>
 
