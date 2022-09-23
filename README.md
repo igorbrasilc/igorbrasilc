@@ -43,12 +43,13 @@ Você pode enviar um email para o endereço disponível aqui no perfil do GitHub
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" alt="Follow igorbrasilc on LinkedIn" title="Follow igorbrasilc on LinkedIn"/>](https://www.linkedin.com/in/igor-corbari-brasil-23857512a/)
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/igorbrasilc/igorbrasilc" align="center">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igorbrasilc&theme=vue" alt="Igor's GitHub Stats" />
-</a>
-<a href="https://github.com/igorbrasilc/igorbrasilc" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorbrasilc" />
-</a>
+***
+
+  <img height="215px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igorbrasilc&theme=vue" alt="Igor's GitHub Stats"></img>
+  <img height="215px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorbrasilc"></img>
+  
+***
+
 
 
 
