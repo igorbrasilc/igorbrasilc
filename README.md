@@ -1,10 +1,10 @@
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   
-  Meu nome é Igor C. Brasil. Estou especializando em ***Desenvolvimento Web FullStack*** com a Driven Education (em que competi com 30 candidatos/vaga), e também estou concluindo formação em Engenharia de Petróleo.
+  Meu nome é Igor C. Brasil. Atuo como desenvolvedor backend na Compass.uol, uma das maiores empresas brasileiras de tecnologia e outsourcing. Sou especializado na Driven Education como desenvolvedor web fullstack, e também estou concluindo formação em Engenharia de Petróleo.
   
   Antes de entrar no mundo da programação web, ***eu trabalhei com copywriting, vendas, poker*** e fiz um ***intercâmbio estudantil na Índia*** por alguns meses na Graphic Era University.
   
-  Eu tenho vários projetos públicos desenvolvidos e "commitados" aqui no Github. Sinta-se confortável para navegar através de alguns deles e dar uma olhadinha nos deploys ou em documentações que estão disponíveis. Em repositórios privados, tenho aplicações desenvolvidas para minha experiência de trabalho na Universidade do Estado de Santa Catarina (UDESC).
+  Eu tenho vários projetos públicos desenvolvidos e "commitados" aqui no Github. Sinta-se confortável para navegar através de alguns deles e dar uma olhadinha nos deploys ou em documentações que estão disponíveis.
   
   ***Achou bacana? Entre em contato comigo!***
 
