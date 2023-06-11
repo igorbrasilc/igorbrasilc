@@ -1,6 +1,6 @@
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   
-  Meu nome é Igor Brasil. Atuo como desenvolvedor backend na Compass.uol, uma das maiores empresas brasileiras de tecnologia e outsourcing. Sou especializado na Driven Education como desenvolvedor web fullstack, e também estou concluindo formação em Engenharia de Petróleo.
+  Meu nome é Igor Brasil. Atuo como desenvolvedor fullstack na UOL Edtech, a maior plataforma de educação digital do Brasil. Sou especializado pela Driven Education como desenvolvedor web fullstack, e também estou concluindo formação em Engenharia de Petróleo.
   
   Antes de entrar no mundo da programação web, ***eu trabalhei com copywriting, vendas, poker*** e fiz um ***intercâmbio estudantil na Índia*** por alguns meses na Graphic Era University.
   
