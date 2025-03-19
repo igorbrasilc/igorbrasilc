@@ -1,5 +1,3 @@
-# Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
 ## 📩 Converse comigo!
 Você pode enviar um email para o endereço disponível aqui no perfil do GitHub. Conecte-se também no LinkedIn:
 
