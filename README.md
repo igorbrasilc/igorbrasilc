@@ -1,6 +1,4 @@
-## 📩 Converse comigo!
-Você pode enviar um email para o endereço disponível aqui no perfil do GitHub. Conecte-se também no LinkedIn:
-
+## Chat with me!
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" alt="Follow igorbrasilc on LinkedIn" title="Follow igorbrasilc on LinkedIn"/>](https://www.linkedin.com/in/igor-corbari-brasil-23857512a/)
 
 ## &#x1f4c8; GitHub Stats
